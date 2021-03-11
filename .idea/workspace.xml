@@ -19,10 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c06466ed-1121-4281-9358-dac240b4e14d" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/format_device.yml" beforeDir="false" afterPath="$PROJECT_DIR$/format_device.yml" afterDir="false" />
-    </list>
+    <list default="true" id="c06466ed-1121-4281-9358-dac240b4e14d" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -119,7 +116,7 @@
       <workItem from="1614922100293" duration="16791000" />
       <workItem from="1615190495313" duration="601000" />
       <workItem from="1615367581406" duration="622000" />
-      <workItem from="1615390688203" duration="4733000" />
+      <workItem from="1615390688203" duration="5079000" />
     </task>
     <task id="LOCAL-00001" summary="minor changes">
       <created>1591282108822</created>
